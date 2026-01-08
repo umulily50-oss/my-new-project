@@ -1,2 +1,2 @@
-# my-new-project
-building ai course project
+house blue print
+how it going
